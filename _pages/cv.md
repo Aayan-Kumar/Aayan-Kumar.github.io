@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Tech CSE — MIT Manipal (expected 2025)
+* B.Tech CSE — MIT Manipal (expected 2029)
   
 Skills
 ======
