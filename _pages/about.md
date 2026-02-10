@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a first year CSE undergraduate student at MIT Manipal. I am interested in AI, machine learning. I enjoy building projects from scratch and learning through hands-on practice.
+Hi, I am a first year CSE undergraduate student at MIT Manipal. I am interested in AI and machine learning. I enjoy building projects from scratch and learning through hands-on practice.
