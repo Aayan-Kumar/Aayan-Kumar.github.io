@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ======
-* 
 * B.Tech CSE — MIT Manipal (expected 2025)
   
 Skills
